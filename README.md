@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Reactjs |Spring Boot**
 
-- 💬 Ask me about **PHP | Python |JAVA**
+- 💬 Ask me about **PHP|Python |JAVA**
 
 - 📫 How to reach me **rhdsaranga@gmail.com**
 
